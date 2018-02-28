@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "435861434273",
+    "firebase_url": "https://mambo-634f1.firebaseio.com",
+    "project_id": "mambo-634f1",
+    "storage_bucket": "mambo-634f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435861434273:android:b8f81f840d040c09",
+        "android_client_info": {
+          "package_name": "com.example.dell.mambo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435861434273-7a149goato4tbl9hd8e7gs3qrknlte0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYxuhoKyGyzGu1MCuJbvmi25uHgFF9MUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
